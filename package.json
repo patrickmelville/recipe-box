@@ -1,0 +1,23 @@
+{
+  "name": "recipe-box",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patrickmelville/recipe-box.git"
+  },
+  "author": "Patrick Melville",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/patrickmelville/recipe-box/issues"
+  },
+  "homepage": "https://github.com/patrickmelville/recipe-box#readme",
+  "devDependencies": {
+    "browser-sync": "^2.18.12",
+    "gulp": "^3.9.1"
+  }
+}
